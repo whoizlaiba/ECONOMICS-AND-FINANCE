@@ -11,7 +11,8 @@ Study resources for **BS Economics & Finance** students.
 
 ### 🔗 Google Drive Resources
 
-- 📚 [Study Material](PASTE-MAIN-LINK-HERE)
+- 📚 [Study Material](https://drive.google.com/drive/folders/1hLiYqpAym-uirsQFKH6-5rlyBuCC7_5A?usp=drive_link
+‎)
 - 📊 [MG Resources](PASTE-MG-LINK-HERE)
 - 📈 [EC Resources](PASTE-EC-LINK-HERE)
 
